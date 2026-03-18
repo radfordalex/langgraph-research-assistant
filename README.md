@@ -119,7 +119,7 @@ Both produce comparable research reports from the same query. The difference is 
 
 ## Evolution
 
-This prototype led to an upgraded production version: [agentic-ai-weekly](https://github.com/radfordalex/agentic-ai-weekly), which adds semantic chunking, multi-pass search, a quality retry loop, and LinkedIn draft generation.
+This prototype led to an upgraded production version: [agentic-ai-weekly](https://github.com/radfordalex/agentic-ai-weekly), which adds semantic chunking, multi-pass search, and a quality retry loop.
 
 ## Tech Stack
 
